@@ -170,7 +170,7 @@ switch (systemState) {
 case IDLE: {
 // Ensure pumps are off
 allPumpsOff();
-
+ 
 }
 
 // Keep loop responsive (tiny yield)
